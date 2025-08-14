@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AB988BAF-404B-40F5-BD87-F9153321CA4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryBoosterTurboMaxEnterprise", "src\MemoryBoosterTurboMaxEnterprise\MemoryBoosterTurboMaxEnterprise.csproj", "{9A95B2D6-519A-401E-A9BB-D8D6321A0640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A95B2D6-519A-401E-A9BB-D8D6321A0640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A95B2D6-519A-401E-A9BB-D8D6321A0640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A95B2D6-519A-401E-A9BB-D8D6321A0640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A95B2D6-519A-401E-A9BB-D8D6321A0640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9A95B2D6-519A-401E-A9BB-D8D6321A0640} = {AB988BAF-404B-40F5-BD87-F9153321CA4F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F6D475-68F0-44D6-A1AF-A28F5948E381}
+	EndGlobalSection
+EndGlobal

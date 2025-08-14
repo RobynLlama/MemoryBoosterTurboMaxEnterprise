@@ -1,0 +1,9 @@
+{
+  "name": "MemoryBoosterTurboMaxEnterprise",
+  "description": "Enterprise edition of Memory Booster Turbo Max",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_Ostranauts-5.4.2303"
+  ],
+  "website_url": ""
+}
